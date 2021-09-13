@@ -1,5 +1,5 @@
 .banner{
-    background-image: url('https://wallpaperaccess.com/full/2703652.png');
+    
     background-size: cover;
     height: 448px;
     color: white;
@@ -13,6 +13,11 @@
 .title{
     font-size: 3rem;
     font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+.smallTitle{
+    font-size: 1.5rem;
+    font-weight: 400;
     padding-bottom: 0.3rem;
 }
 .button{
