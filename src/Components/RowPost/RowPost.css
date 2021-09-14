@@ -20,3 +20,6 @@
     max-height: 150px;
     padding-right: 10px;
 }
+.smallPoster:hover{
+    opacity: 0.3;
+}
